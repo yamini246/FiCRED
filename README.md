@@ -1,4 +1,4 @@
-# FiCREED
+# FiCRED
 A Finance Tracker App.
 
 
